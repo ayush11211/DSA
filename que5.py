@@ -24,7 +24,7 @@ from math import sqrt
 # print(result)
 
 #Aproach 3 Optimal Solution
-# in this we use square root of the number to make it more optimal ((((n/i) hint)))
+# in this we use square root of the number to make it more optimal ((((n/i) hint))) TC = O(sqrt(n)) + O(nlogn)  SC = O(k)
 
 n = 20
 result = []
