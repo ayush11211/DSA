@@ -1,7 +1,7 @@
 #Check if the String is Palindrome or not
 
 
-#this is using recursion
+#this is using recursion  TC = O(n) SC = O(n)
 name = "nitin"
 
 # def pali(str,left,right):
@@ -15,7 +15,7 @@ name = "nitin"
 # print(x)
 
 
-#this is using loop
+#this is using loop  TC= O(n) SC = O(1)
 # def pali():
 #     n = len(name)
 #     left = 0
